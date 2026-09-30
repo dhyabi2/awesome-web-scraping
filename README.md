@@ -212,7 +212,7 @@ Pages become markdown or JSON. Selectors become prompts. Still verify the output
 - [browser-use](https://github.com/browser-use/browser-use) — Make websites usable by AI agents.
 - [Jina Reader](https://jina.ai/reader) — `r.jina.ai/<url>` → clean markdown. Dead-simple prototype path.
 - [Spider.cloud](https://spider.cloud) — Crawler + LLM extract API.
-- [Vend](https://extract.paypercall.dev) — Remote pay-per-call web-data API: search, page extract, tables. Settles per call in Nano (XNO), no API key.
+- [Vend](https://extract.paypercall.dev) — Remote pay-per-call web-data API: keyword and semantic search (`search.paypercall.dev/api/v1/neural-search`), page extract, tables. Settles per call in Nano (XNO), no API key.
 
 ---
 
